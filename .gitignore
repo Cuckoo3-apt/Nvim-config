@@ -1,0 +1,6 @@
+plugin/
+pack/
+undo/
+*.swp
+*.log
+lazy-lock.json
